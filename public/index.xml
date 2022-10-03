@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Ehm</title>
+    <link>https://www.johannesehm.de/</link>
+    <description>Recent content on Johannes Ehm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.johannesehm.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergkruste</title>
+      <link>https://www.johannesehm.de/craft/220907-bergkruste/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/craft/220907-bergkruste/</guid>
+      <description>Das Bergkrusten Rezept von Plötzblog ist eines meiner Lieblingsbrote und gleichzeitig eines der Brote welches ich immer wieder backe. Die Mischung aus Roggen und Dinkel sowie die Zugabe von Altbrot von Röstbrot geben dem Brot einen wunderbar kräftigen vielschichtigen Geschmack. Heute habe ich das Brot wieder gebacken und es ist gut gelungen. Das ist nicht immer so - beim letzten Mal war der Teig sehr weich - vermutlich einerseits aufgrund von zu viel Wasser und andererseits aufgrund den hohen Temperaturen.</description>
+    </item>
+    
+    <item>
+      <title>Klettern im Kindergarten</title>
+      <link>https://www.johannesehm.de/mountaineering/220905-climbing-in-kindergarten/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/mountaineering/220905-climbing-in-kindergarten/</guid>
+      <description>Kindergarten is a wall in the Stie Alm Kessel at Brauneck. Last week, on 4.9.2022, we went to the Kindergarten for some climbing. The Brauneck can be reached via Lenggries in the south of munich. In order to reach the Stie Alm Kessel a walk of 1.5 hours with an elevation gain of about 950 meters in heigth is needed. As an alternative it is also possible to take the cable car and walk around 20 minutes from the cable car station to the Stie Alm Kessel.</description>
+    </item>
+    
+    <item>
+      <title>Pflaumenkuchen</title>
+      <link>https://www.johannesehm.de/craft/220905-pflaumenkuchen/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/craft/220905-pflaumenkuchen/</guid>
+      <description>Der September ist die ideale Zeit um einen Pflaumenkuchen zu backen. Ich hatte das große Glücke eine Lieferung frischer Pflaumen direkt aus einem ländlichen Garten zu bekommen. In Bayern nennt man einen Pflaumenkuchen Zwetschgendatschi. Datschi könnte eine wunderbare Anspielung auf den fruchtigen weichen Geschmack der Pflaumen in einem cremigen Teig bestückt mit knusprigen Streusel. In Wirklichkeit bedeutet Datschi wohl das Drücken der Pflaume in den Teig. Auch mit dieser Bedeutung bin ich zufrieden, da das Zubereiten eines Pflaumenkuchens oder Zwetschgendatschis ein wirklich wunderbar zufriedenstellender Vorgang ist.</description>
+    </item>
+    
+    <item>
+      <title>European Championships Munich 2022</title>
+      <link>https://www.johannesehm.de/athletics/220823-european-championships/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/athletics/220823-european-championships/</guid>
+      <description>The European Championships did take place from 11th August of 2022 until 21st August of 2022. I did volunteer at a supply station of the marathon event and visited a whole bunch of other events. The crowds were amazing, especially during the mens combined lead and bolder event as there were no german climbers in the final and still the crowd did support every athlete. You will find pictures of triathlon relay, marathon, climbing, beach volleyball, moutainbike, cycling and athletics.</description>
+    </item>
+    
+    <item>
+      <title>AWS CloudWatch Search and Query API</title>
+      <link>https://www.johannesehm.de/tech/220816-aws-cloudwatch-metrics-query-vs-search/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/tech/220816-aws-cloudwatch-metrics-query-vs-search/</guid>
+      <description>AWS offers with CloudWatch a powerful service to observe a AWS infrastructure and applications which are running on the AWS infrastructure. Collecting and querying metrics is a major part of observing infrastructure and applications. When I was working with querying AWS CloudWatch metrics I did found out that AWS CloudWatch acutally provides to ways to query the metrics and that is important to know that two ways are available:
+CloudWatch Metrics Insights with a SQL kind query language Cloudwatch search expressions CloudWatch query expressions from Metrics Insights 🔗CloudWatch Metrics Insight offers a rich sql kind query language to build queries on top of time series data.</description>
+    </item>
+    
+    <item>
+      <title>Climbing in Fränkische Schweiz</title>
+      <link>https://www.johannesehm.de/mountaineering/220814-climbing-in-fraenkische-schweiz/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/mountaineering/220814-climbing-in-fraenkische-schweiz/</guid>
+      <description>Climbing in the Fränkische Schweiz is an extraordinary rediscovery of Franken, the place where I did grew up. The Fränkische Schweiz is an area within Bavaria inbetween the triangle Nurnberg, Bamberg and Bayreuth which is known on the one hand for beer and on the other hand for climbing. The Fränkische Schweiz is a part of the Frankenjura which is an extraordinary geological region: beautiful valleys with beautiful streams, dense forests and high rising rocks shape the area where some of the nicest but also hardest climbing walls in Bavaria can be found.</description>
+    </item>
+    
+    <item>
+      <title>Code Content</title>
+      <link>https://www.johannesehm.de/posts/code-content/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/posts/code-content/</guid>
+      <description>t1 🔗aaaa
+Test aaa text.
+t1.1 🔗aaaa</description>
+    </item>
+    
+  </channel>
+</rss>

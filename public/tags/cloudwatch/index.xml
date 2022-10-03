@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloudwatch on Johannes Ehm</title>
+    <link>https://www.johannesehm.de/tags/cloudwatch/</link>
+    <description>Recent content in cloudwatch on Johannes Ehm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.johannesehm.de/tags/cloudwatch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS CloudWatch Search and Query API</title>
+      <link>https://www.johannesehm.de/tech/220816-aws-cloudwatch-metrics-query-vs-search/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesehm.de/tech/220816-aws-cloudwatch-metrics-query-vs-search/</guid>
+      <description>AWS offers with CloudWatch a powerful service to observe a AWS infrastructure and applications which are running on the AWS infrastructure. Collecting and querying metrics is a major part of observing infrastructure and applications. When I was working with querying AWS CloudWatch metrics I did found out that AWS CloudWatch acutally provides to ways to query the metrics and that is important to know that two ways are available:
+CloudWatch Metrics Insights with a SQL kind query language Cloudwatch search expressions CloudWatch query expressions from Metrics Insights 🔗CloudWatch Metrics Insight offers a rich sql kind query language to build queries on top of time series data.</description>
+    </item>
+    
+  </channel>
+</rss>
