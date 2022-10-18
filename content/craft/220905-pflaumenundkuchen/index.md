@@ -47,11 +47,11 @@ Streusel:
 
 4. Kuchen in den Ofen geben und mindestens 30 Grad bei 180 Grad backen.
 
-![Pflaumenkuchen 1](/20220903_DSC_4313.jpg)
+![Pflaumenkuchen 1](20220903_DSC_4313.jpg)
 
-![Pflaumenkuchen 2](/20220903_DSC_4315.jpg)
+![Pflaumenkuchen 2](20220903_DSC_4315.jpg)
 
-![Pflaumenkuchen 3](/20220903_DSC_4318.jpg)
+![Pflaumenkuchen 3](20220903_DSC_4318.jpg)
 
 ## Korrektur
 
