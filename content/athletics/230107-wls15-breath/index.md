@@ -30,3 +30,7 @@ Also, dann schau ich mal wie ich richtige atme und meine Atmung trainieren kann.
 [3]: https://www.olympia-alm-cross.de/
 [4]: https://www.sas-online.net/resultportal/index.php?eID=659&rID=3528&site=1
 [5]: https://charakyoga.com/yoga-styles/
+
+https://www.asics.com/de/de-de/running-advice/how-to-breathe-when-running/
+
+https://www.nike.com/be/de/a/wie-atemubungen-die-performance-verbessern
