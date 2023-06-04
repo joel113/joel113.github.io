@@ -5,7 +5,7 @@ date = "2022-09-05"
 description = "Herbstzeit ist Pflaumenkuchenzeit"
 tags = [
 	"baking",
-	"backend",
+	"backen",
 	"cake",
 	"kuchen",
 	"pflaumen",
