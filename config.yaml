@@ -82,6 +82,8 @@ params:
       path: /cycling
     - name: Mountaineering
       path: /mountaineering
+    - name: Writing
+      path: /writing
     ## e.g.
     # - name: Project
     #   path: /project
