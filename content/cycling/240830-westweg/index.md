@@ -1,0 +1,91 @@
++++
+author = "Johannes Ehm"
+title = "341 km Westweg - Karlsruhe nach Lörrach"
+date = "2024-08-30"
+description = "341 Kilometer Westweg in drei Tagen - von Karlsruhe nach Lörrach durch den Schwarzwald"
+tags = [
+	"cycling",
+	"Radfahren",
+  "gravel",
+	"english"
+]
+draft = false
++++
+
+Am 30. August 2024 habe ich es wieder mit dem Westweg versucht. Es ist schon her, dass ich diese Tour unternommen habe, da ich den Bericht dazu am 9. Mai 2026 schreibe. Zwischen dem ersten und dem zweiten Westweg ist unser Sohn zur Welt gekommen, so dass der zweite Versuch erst im August 2024 möglich war. Es hat mich gewurmt wie unvorbereitet ich beim ersten Versuch den Westweg angegangen bin. Voll im Gravel-Bike-Packing-Ultra-Fieber durch Podcasts und Videos stand ich am ersten Tag im Schwarzwald Nationalpark etwas ermüdet, ohne Verpflegung, ohne Plan wo ich übernachten könnte und ohne Mut die Route weiter in der Nacht zu fahren nach den Schwierigkeiten des ersten Tages. Beim zweiten Versuch habe ich mich darauf besinnt, dass ich den Westweg nicht als Rennen, sondern als gut geplantes Abenteuer angehe mit einem Übernachtungsplan für die erste Nacht, mit einer besser Verpflegung alleine dadurch, dass ich in einem Hotel essen kann und mit dem Plan den Westweg bei Tag zu fahren. Wie ich bei Beginn des zweiten Versuchs am zweiten Tag gemerkt habe, war das eine gute Entscheidung, weil ich gesehen habe, dass mich ansonsten in der Nacht ein wirklich schwieriger Abschnitt mit Schiebe und Tragepassagen auf mich gewartet hätte. Bei sowas muss man schon wissen was man tut und das wusste ich beim ersten Versucht nicht.
+
+![Pforzheim - Pforte zum Schwarzwald](westweg_1.jpg)
+
+Also ging es am 30. August 2024 wieder nach Pforzheim, um den Westweg ein zweites Mal zu starten. Es warteten heiße Temperaturen und als Ziel auf der ersten Etappe mit dem [Zuflucht Natur- und Sporthotel](https://www.hotel-zuflucht.de/) mitten im Nationalpark ein schönes Hotel. Auf der zweiten Etappe sollte es nach Titisee in die etwas spartanische Pension [Wald und See](https://www.waldundsee.de/) gehen. Auf der dritten Etappe war es mein Ziel den Westweg endlich fertig zu radeln, in Basel anzukommen und in Weil am Rhein im [BnB Hotel](https://www.hotel-bb.com/de/hotel/weil-am-rhein) zu übernachten.
+
+## Tag 1: Pforzheim nach Zuflucht (Nationalpark Schwarzwald) (111 km)
+
+Auf bereits bekannten Wegen ging es also von Pforzheim in den Nationalpark Schwarzwald ins Hotel Zuflucht. Ich war mir nicht sicher wie ich es finden würde auf einer bereits gefahrene Strecke nochmal unterwegs zu sein, aber es war tatsächlich eine schöne Erfahrung. Es war nicht so, dass ich alles kannte und ich konnte mir nochmal die Strecke und die verschiedenen Orte noch einmal anschauen. Ich habe mir vorgenommen, dass jetzt wo ich den Westweg wirklich fahre auch die Westweg-Tore zu fotografieren, die ich bei meinem ersten Versucht nicht beachtet habe.
+
+![Westweg Tor in Pforzheim](westweg_2.jpg)
+
+![Westweg Tor in Dobel](westweg_3.jpg)
+
+Ich muss zugeben, dass ich am zweiten Tag die Tore teilweise nicht mehr gefunden habe, aber es gibt ein ein gutes Gefühl ganz bewusst die verschiedenen Orte des Westweges zu entdecken und dabei sich mit den Toren zu fotografieren.
+
+Ich wusste noch vom letzten Mal, dass es im ersten Stück bis Forbach schön angenehm in den Höhen des Schwarzwadles geht und das die Schwierigkeiten an diesem Tag mit insgesamt 2600 Höhenmeter erst ab Forbach kommen. In meinem letzten Versuch war ich mit meiner Abfahrt nach Forbach unzufrieden, weil meine Strecke einen Trailabschnitt enthielt, der mit meinem Gravel-Bike nicht wirklich gut zu fahren war. Dieses Mal habe ich mir eine andere Abfahrt nach Forbach ausgesucht, die dazu geführt hat, dass ich mich gleich mal so richtig verfahren habe. Auch schön, mal einfach irgendwo im Schwarzwald unterwegs zu sein und ohne guten Track und guter Karte zu versuchen zu navigieren. Letztendlich habe ich mich entschieden, dann doch einfach zurück zu fahren und meinem Weg zu folgen, auch wenn so auch ein paar Kilometer mehr im Schwarzwald gesammelt habe. In Forbach fand ich beim letzten Mal den Anstieg in die Nähe der Schwarzenbachtalsperre unheimlich schwierig weil Steil bei extrem heißen Temperaturen. Ich hatte dieses mal hier auch einen anderen Weg herausgesucht, was sich aber nach ein paar Metern als unfahrbar erweisen hat. Also musste ich doch den eigentlichen Anstieg fahren, welcher aber im Gegensatz zum letzten Versuch fahrbarer war. Die Temperaturen waren ähnlich heiß, ich habe ähnlich viel geflucht. Mein erster Gang ging nicht, da ich vor meiner Abfahrt nach Pforzheim auch nicht wirklich Zeit hatte das Fahrrad noch einmal richtig zu prüfen, aber letztendlich habe ich es geschafft. Ganz oben im Nationalpark ging es dann sehr flüssig, wobei ich wie letztes Jahr nur teilweise die Schotterstraßen an der Schwarzwaldhochstraße gefahren bin und auch einfach über die Teerstraße auf die Hornisgrinde gefahren bin. Es ist ein gutes Gefühl gewesen endlich mal auf der Hornisgrinde zu sein. Einfach schön da oben, etwas müde, aber mit guten Gefühl, weil nach 15 weiteren Kilometern das Hotel mit einer Dusche und einem Bett auf mich wartete.
+
+![Hornisgrinde](westweg_4.jpg)
+
+![Johannes auf der Hornisgrinde](westweg_5.jpg)
+
+{{< rawhtml >}}
+<iframe src="https://www.komoot.com/de-de/tour/1827866418/embed?share_token=aAC1DmG7PM226LYMeXrekA4Vyd6ejKuQTNBoPhcUH13MaPR2vs&amp;layout=classic&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+{{< /rawhtml >}}
+
+## Tag 2: Zuflucht nach Titisee (113 km)
+
+Am zweiten Tag erwartete mich ein extrem heißer Tag mit Temperaturen nahezu an die 40 Grad. Um so tragischer war es langsam die Höhen und damit auch die Frische des Nationalparks zu verlassen und in die heißen Täler rund um Hausbach zu fahren. Vor Hausbach ging es auf schwer zu fahrenden Schotterstraßen und Wanderwege mit Schiebe- und Tragepassagen hin zu einer Teerstraße mit der Abfahrt Richtung Hausbach. Die Straße zwischen Bad Peterstal und Wildschapbach war eine wunderbare Abfahrt im richtigen Tempo, mit der richtigen Anzahl an Kurven und einem angenehmen Verkehr. Es ist einfach tragisch mit dem Fahrrad unterwegs zu sein und überall Orte zu sehen, die man sich gerne länger und genauer anschauen zu müssen, wobei die Strecke einfach zu wichtig ist, um anzuhalten und Tage an einem Ort zu verweilen. Fahrrad fahren ist das richtige Tempo um sich fortzubewegen, die Landschaften und die Übergänge zwischen den Orten zu erleben, aber dann doch zu schnell die Orte kennen zu lernen, wenn die Orte verlockend erscheinen.
+
+![Westweg Tor vor Hausach](westweg_6.jpg)
+
+![Radweg nach Hausach](westweg_7.jpg)
+
+![Große Kuckusuhr vor Triberg](westweg_8.jpg)
+
+Nach Hausach ging es durch ein heißes Tal direkt in das touristische Herz des Schwarzwalds, mit Triberg und Schonach. Meine Route sollte kurz vor Triberg abzweigen um über einen weiteren steilen Anstieg nach Schonach zu führen. Es war erleichternd wieder in den Höhen des Schwarzwalds und damit in der Kühle zu sein, aber der Anstieg war wieder richtig steil und richtig hart. Es ging nach Schonach über eine wunderschöne Hochebene an einem See, einer Biathlonanlage hinzu einem Schild mit einem Verweis auf die Donauquelle und damit den Ursprung der Donau und damit dem Start des Donauradwegs. Wie lockend war es dem Schild zu folgen und die Donauquelle zu besuchen, aber die Strecke, der Westweg und das rechtzeitige Ankommen in Titisee waren zu wichtig. Nach Titsee sollte es noch eine ganz schön lange Strecke geben. Ich wusste ja noch nicht, dass vor dem Hexenloch ein langer und steiler Wanderweg auf mich wartet und ich das Rad über eine lange Strecke tragen muss. Die eigentliche Schmach war aber, dass der Wanderweg an einem Rastplatz endete, wo es gerade eine Party gab. Was für eine Schmach, mit dem Fahrrad auf der Schulter rutschend, schwitzend und einen Gesichtsausdruck der Erlösung aus dem Gebüsch zu kommen, um sich dann anhören zu müssen, dass das wohl nicht das richtige Fahrrad für den Wanderweg war. Mit einem Schmunzeln im Gesicht ging es schnell zum Hexenloch, um sich über eine atemberaubend schöne kleine Straße wieder in die Höhen des Schwarzwalds zu schrauben. Der Schwarzwald überzeugt einfach durch die Vielfalt der kleinen Straßen, die in keiner Art und Weise sich vor den mit Verkehr überladenen Alpenstraßen verstecken müssen. Ich muss fast sagen, dass der Schwarzwald in weiten Teilen das schönere Gelände, die schönere Vielfalt und ähnliche Herausforderungen als die Alpen bietet. Es zog sich dann noch nach Titisee, aber dank einer rasanten Abfahrt ging es dann doch schneller als erwartet in die Pension Wald und See mit einem kleinen Zimmer im obersten Stockwert.
+
+![Zimmer in der Pension Wald und See](westweg_9.jpg)
+
+Mit nur knapp 2000 Höhemeter, aber ein paar steilen Rampen war der zweite Tag einfacher als der erste auch weil der erste Tag immer der schwierigiste ist, aber die Hitze im Tal herausfordernd war.
+
+{{< rawhtml >}}
+<iframe src="https://www.komoot.com/de-de/tour/1830627107/embed?layout=classic&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+{{< /rawhtml >}}
+
+## Tag 3: Titisee nach Lörrach und weiter nach Basel und Weil am Rhein (117 km)
+
+Mit zwei Tagen auf dem Westweg konnte am dritten Tag eigentlich nichts mehr schief gehen. Die Knie taten weh, aber mit einer etwas höheren Sattelposition war das Problem gelöst. Die Wolken tummelten sich am Himmel, aber ich sollte doch trocken bleiben, nachdem ich mich in den Tagen davor so geschwitzt habe. Tatsächlich sollte mich das sich zusammenbrauende Gewitter nicht auf dem Westweg bis Lörrach nicht mehr einholen, aber dafür auf dem Weg von Lörrach nach Basel um so heftiger erwischen. Bis dahin war es aber noch eine Weile und es warteten drei Berge auf mich. Der erste Berg war kein anderer als der Feldberg kurz hinter Titisee. Ok, es ging zwar nicht ganz bis nach oben, aber es ging doch ordentlich und vor allem steil nach oben. Am dritten Tag war ich aber schon so im Flow, dass ich den Anstieg richtig genießen konnte. Mit entsprechenden Verpflegungsstellen und Brunnen mit Frischwasser ist es auch kein Problem viel zu schwitzen und trotzdem ausreichen Flüssigkeit zu sich zu nehmen. Wie schön wäre es doch solche Verpflegungsmöglichkeiten südlich von München in meinem Heimatrevier zu haben.
+
+![Verpflegungsstelle am Feldberg](westweg_10.jpg)
+
+![Brunnen am Feldberg](westweg_11.jpg)
+
+![Auf dem Weg zum Feldberg](westweg_12.jpg)
+
+{{< rawhtml >}}
+<iframe src="https://www.komoot.com/de-de/tour/1833735638/embed?layout=classic&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+{{< /rawhtml >}}
+
+Eine herrliche Gegend mit dem Gravel-Rad unterwegs zu sein. Es ging hoch. Es ging runter. Aber immer über 1000 Meter. Wie gerne wäre ich hier mal im Winter mit den Skiern unterwegs. Perfekte Schotterstraßen und endlich ein anderer Radler. Bis dahin war ich als Bike-Packer alleine unterwegs. Natürlich gab es hin und wieder Rennradfahrer, aber niemand mit Gepäck und schon gar niemand mit einem Gravel-Bike. Der zweite Berg war der Belchen. Auf dem Belchen war es vorbei mit der Ruhe. Zwar war ich auch der einzige Bike-Packer, dafür Rennradler vorne und hinten. Der Belchen scheint ein tolles und bliebtes Ziel für Rennradler zu sein. Es geht auch richtig schön auf einer Teerstraße nach oben, frei von Verkehr. Meine Abfahrt war dagegen für Radler gesperrt. Was mach ich jetzt? Fahren, schieben oder tragen? Natürlich tragen um die Natur zu schonen. So ging es runter um in Neuenweg zur steilsten Rampe der ganzen Tour zu führen. Meine Daten sagen 14%, aber niemals? Das muss doch locker 20% gewesen sein. War aber auch schnell wieder vorbei, um in einer langen Fahrt zum dritten und letzten Berg den Blauen zu führen. Sehr schön, aber mit den vielen Quell- und Gewitterwolken schon richtig bedrohlich. Da wo ich herkam hat es gefühlt schon gewittert und da wo ich hinwollte sah es auch nicht gut aus.
+
+![Hochebene nach dem Feldberg](westweg_13.jpg)
+
+![Westweg Tor vor dem Belchen](westweg_14.jpg)
+
+![Fahrrad auf dem Belchen](westweg_15.jpg)
+
+![Wolken auf dem Blauen](westweg_16.jpg)
+
+Der weitere Weg nach Lörrach war unspektakulär und das meiste war schon geschafft. Endlich hatte ich den Westweg bezwungen. Es wurde immer gewitteriger, es wurde immer windiger und die ersten Regentropen waren auch schon am Start.
+
+![Brunen in Lörrach](westweg_17.jpg)
+
+Auf dem Weg nach Basel hat mich das Gewitter dann eingeholt. Ich finde es immer erstaunlich wie herrlich entspannend alle anderen sind wenn das Gewitter so richtig los legt. Im Landschaftspark vor Basel ging es dann so richtig los, als es plötzlich richtig geknallt hat und alles von weißen Blitzen erleuchtet wurde. Ein paar Meter später knieten vier Menschen mitunter heulend auf dem Boden. Ich habe erst gar nicht verstanden was los ist, bis ich verstanden hat, dass sie einen Hund dabei hatten, der sich so richtig erschroken hat, wobei auch die Menschen nicht frei von Panik waren. Also habe ich mir einen Unterschlupf gesucht, um den Westweg auch wirklich in Basel und dann in Weil am Rhein am Dreiländereck erfolgreich zu beenden.
+
+![Dreiländereck](westweg_18.jpg)
