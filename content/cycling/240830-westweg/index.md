@@ -1,8 +1,8 @@
 +++
 author = "Johannes Ehm"
-title = "341 km Westweg - Karlsruhe nach Lörrach"
+title = "341 km Westweg - Pforzheim nach Lörrach"
 date = "2024-08-30"
-description = "341 Kilometer Westweg in drei Tagen - von Karlsruhe nach Lörrach durch den Schwarzwald"
+description = "341 Kilometer Westweg in drei Tagen - von Pforzheim nach Lörrach durch den Schwarzwald"
 tags = [
 	"cycling",
 	"Radfahren",
@@ -12,7 +12,7 @@ tags = [
 draft = false
 +++
 
-Am 30. August 2024 habe ich es wieder mit dem Westweg versucht. Es ist schon her, dass ich diese Tour unternommen habe, da ich den Bericht dazu am 9. Mai 2026 schreibe. Zwischen dem ersten und dem zweiten Westweg ist unser Sohn zur Welt gekommen, so dass der zweite Versuch erst im August 2024 möglich war. Es hat mich gewurmt wie unvorbereitet ich beim ersten Versuch den Westweg angegangen bin. Voll im Gravel-Bike-Packing-Ultra-Fieber durch Podcasts und Videos stand ich am ersten Tag im Schwarzwald Nationalpark etwas ermüdet, ohne Verpflegung, ohne Plan wo ich übernachten könnte und ohne Mut die Route weiter in der Nacht zu fahren nach den Schwierigkeiten des ersten Tages. Beim zweiten Versuch habe ich mich darauf besinnt, dass ich den Westweg nicht als Rennen, sondern als gut geplantes Abenteuer angehe mit einem Übernachtungsplan für die erste Nacht, mit einer besser Verpflegung alleine dadurch, dass ich in einem Hotel essen kann und mit dem Plan den Westweg bei Tag zu fahren. Wie ich bei Beginn des zweiten Versuchs am zweiten Tag gemerkt habe, war das eine gute Entscheidung, weil ich gesehen habe, dass mich ansonsten in der Nacht ein wirklich schwieriger Abschnitt mit Schiebe und Tragepassagen auf mich gewartet hätte. Bei sowas muss man schon wissen was man tut und das wusste ich beim ersten Versucht nicht.
+Am 30. August 2024 habe ich es wieder mit dem Westweg versucht. Es ist nun schon etwas her, dass ich diese Tour unternommen habe, da ich den Bericht dazu am 9. Mai 2026 schreibe. Zwischen dem ersten und dem zweiten Westweg ist unser Sohn zur Welt gekommen, so dass der zweite Versuch erst im August 2024 möglich war. Es hat mich gewurmt, wie unvorbereitet ich beim ersten Versuch den Westweg angegangen bin. Voll im Gravel-Bike-Packing-Ultra-Fieber durch Podcasts und Videos stand ich am ersten Tag im Schwarzwald Nationalpark etwas ermüdet, ohne Verpflegung, ohne Plan wo ich übernachten könnte und ohne Mut die Route in der Nacht weiter zu fahren. Beim zweiten Versuch habe ich mich darauf besinnt, dass ich den Westweg nicht als Rennen, sondern als gut geplantes Abenteuer angehe, mit einem Übernachtungsplan für die erste Nacht, mit einer besseren Verpflegung alleine dadurch, dass ich in einem Hotel essen kann und mit dem Plan den Westweg bei Tag zu fahren. Wie ich bei Beginn des zweiten Versuchs am zweiten Tag gemerkt habe, war das eine gute Entscheidung, weil ich gesehen habe, dass mich ansonsten in der Nacht ein wirklich schwieriger Abschnitt mit Schiebe und Tragepassagen auf mich gewartet hätte. Bei sowas muss man schon wissen, was man tut und das wusste ich beim ersten Versuch nicht.
 
 ![Pforzheim - Pforte zum Schwarzwald](westweg_1.jpg)
 
