@@ -20,7 +20,7 @@ Also ging es am 30. August 2024 wieder nach Pforzheim, um den Westweg ein zweite
 
 ## Tag 1: Pforzheim nach Zuflucht (Nationalpark Schwarzwald) (111 km)
 
-Auf bereits bekannten Wegen ging es also von Pforzheim in den Nationalpark Schwarzwald ins Hotel Zuflucht. Ich war mir nicht sicher, wie ich es finden würde auf einer bereits gefahrenen Strecke nochmal unterwegs zu sein, aber es war tatsächlich eine schöne Erfahrung. Es war nicht so, dass ich alles kannte und ich konnte mir nochmal die Strecke und die verschiedenen Orte noch einmal anschauen. Ich habe mir vorgenommen, dass jetzt, wo ich den Westweg wirklich fahre, auch die Westweg-Tore zu fotografieren, die ich bei meinem ersten Versuch nicht beachtet habe.
+Auf bereits bekannten Wegen ging es also von Pforzheim in den Nationalpark Schwarzwald ins Hotel Zuflucht. Ich war mir nicht sicher, wie ich es finden würde auf einer bereits gefahrenen Strecke nochmal unterwegs zu sein. Es war tatsächlich eine schöne Erfahrung und nicht so, dass ich alles schon gesehen hatte.  Ich konnte mir nochmal die Strecke und die verschiedenen Orte genau anschauen. Und so habei ch habe mir vorgenommen, dass jetzt, wo ich den Westweg wirklich fahre, auch die Westweg-Tore zu fotografieren, die ich bei meinem ersten Versuch nicht beachtet habe.
 
 ![Westweg Tor in Pforzheim](westweg_2.jpg)
 
